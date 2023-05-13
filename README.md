@@ -1,11 +1,7 @@
-### Hi there 👋
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/83764695/226150004-f54f78ea-0a18-4969-8d34-9dd4161e4659.png" />
-</div>
+### Bem vindo ao meu perfil GitHub 👋
 Sou Letícia Beatriz e essa é a minha conta de atividades pessoais dos cursos Técnico de Desenvolvimento de Sistemas e Aprendizagem Industrial em programação Back-End :)
 
-## 👩🏻‍💻 Tecnologias que utilizo:
+## 👩🏻‍💻 Ferramentas e tecnologias
 <div style="display : inline_block"><br/>
   <img align="center" alt="" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img align="center" alt="" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -21,3 +17,5 @@ Sou Letícia Beatriz e essa é a minha conta de atividades pessoais dos cursos T
 ###
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=let1ci4b&hide_progress=true&theme=tokyonight)](https://github.com/let1ci4b)
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
