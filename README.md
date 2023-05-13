@@ -16,6 +16,4 @@ Sou Letícia Beatriz e essa é a minha conta de atividades pessoais dos cursos T
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=let1ci4b&hide_progress=true&theme=tokyonight)](https://github.com/let1ci4b)
-
-![Snake animation](https://github.com/let1ci4b/let1ci4b.git/blob/output/github-contribution-grid-snake.svg)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=let1ci4b&layout=compact&langs_count=7&theme=dracula"/>
