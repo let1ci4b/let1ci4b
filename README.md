@@ -35,6 +35,6 @@ I'm also interested in developing databases, software and applications and explo
   <a href="https://www.linkedin.com/in/leticia-beatriz015/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 <br>
-![Snake animation](https://github.com/let1ci4b/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/let1ci4b/let1ci4b/blob/output/github-contribution-grid-snake.svg)
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e5383b&height=120&section=header"/>
