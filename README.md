@@ -4,7 +4,7 @@
 <br> <br>
 
 ## 🤔 About me:
-Whats up?! My name is Letícia, I'm 17 years old, I have a technical course in Systems Development from SENAI and, currently, I’m an undergraduate student of Information Systems at UNISUL and an Android developer apprentice at Intelbras.
+Whats up?! My name is Letícia, I'm 17 years old, I have a technical course in Systems Development from SENAI and, currently, I’m an undergraduate student of Information Systems at UNISUL and an IT technician at UFSC.
 I'm focused on innovation, knowledge and excellence and I really enjoy finding innovative solutions to problems!
 I'm also interested in developing databases, software and applications and exploring as many areas as I can...
 <br>
