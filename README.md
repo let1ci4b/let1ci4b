@@ -28,6 +28,7 @@ I'm also interested in developing databases, software and applications and explo
   <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white" /> 
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white" /> 
 </p>
 <br>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=let1ci4b&layout=compact&langs_count=7&theme=tokyonight"/>
