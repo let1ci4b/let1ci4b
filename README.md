@@ -29,6 +29,12 @@ I'm also interested in developing databases, software and applications and explo
   <img src="https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white" /> 
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Metabase-509EE3.svg?style=for-the-badge&logo=Metabase&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/UML-FABD14.svg?style=for-the-badge&logo=UML&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Material%20Design-757575.svg?style=for-the-badge&logo=Material-Design&logoColor=white" /> 
 </p>
 <br>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=let1ci4b&layout=compact&langs_count=7&theme=tokyonight"/>
