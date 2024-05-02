@@ -41,9 +41,10 @@ I'm also interested in developing databases, softwares and applications and expl
 <br>
 
 ## 👩🏻‍💻 Learning:
-
+<p>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white" /> 
-  <img src="  https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" /> 
+</p>  
 
 ## 😎 Contact ME:
 <p>
