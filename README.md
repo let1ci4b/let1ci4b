@@ -4,10 +4,10 @@
 <br> <br>
 
 ## 🤔 About me:
-Whats up?! My name is Letícia, I'm 18 years old and I live in Santa Catarina. Also, I have technical course in Systems Development and in Back-End Development from SENAI and, currently, I’m an undergraduate student of Information Systems at UNISUL and an IT technician at UFSC.
+Whats up?! My name is Letícia, I'm 19 years old and I live in Santa Catarina. Also, I have technical course in Systems Development and in Back-End Development from SENAI and, currently, I’m an undergraduate student of Information Systems at UNISUL and an IT technician at UFSC.
 I'm focused on innovation, knowledge and excellence and I really enjoy finding innovative solutions to problems!
 
-I'm also interested in developing databases, softwares and applications and exploring as many areas as I can (as data science and cibercurity)...
+I'm also interested in developing databases, softwares and applications and exploring as many areas as I can (as data science and cibersecurity)...
 
 ## 🚀 Skills:
 
